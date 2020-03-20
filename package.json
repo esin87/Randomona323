@@ -1,9 +1,9 @@
 {
-  "name": "RandoMona",
+  "name": "randomona323",
   "version": "0.0.0",
   "private": true,
   "author": "kenny@knnyczr.com",
-  "description": "A helpful SEI bot",
+  "description": "Random student selector for SEIR-323",
   "dependencies": {
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
@@ -22,6 +22,7 @@
     "hubot-slack": "^4.7.1"
   },
   "engines": {
-    "node": "10.10.x"
+    "node": "10.10.x",
+    "npm": "6.13.4"
   }
 }
