@@ -2,7 +2,6 @@ module.exports = [
   "Claude",
   "Eric",
   "Foolan",
-  "Xavier",
   "Yiling",
   "Rory",
   "David",
@@ -23,12 +22,9 @@ module.exports = [
   "Connor",
   "Sean",
   "Dan",
-  "Ryan",
   "Sam",
-  "Eugene",
   "Raul",
   "Jacob",
   "Jyoti",
-  "Enzo",
   "William"
 ];
