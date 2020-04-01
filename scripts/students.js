@@ -22,7 +22,6 @@ module.exports = [
   "Dan",
   "Sam R.",
   "Raul",
-  "Jacob",
   "Jyoti",
   "William W."
 ];
