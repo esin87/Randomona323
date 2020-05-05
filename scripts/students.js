@@ -11,17 +11,14 @@ module.exports = [
   "Kristen",
   "Tina",
   "TK",
-  "Sam N.",
-  "Rose",
   "Andrés",
   "Justin",
   "Juan",
   "Bijal",
   "Connor",
   "Sean",
-  "Dan",
   "Sam R.",
   "Raul",
   "Jyoti",
-  "William W."
+  "William W.",
 ];
